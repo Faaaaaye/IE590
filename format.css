@@ -1,0 +1,13 @@
+body{
+  font-family:Verdana;
+}
+table{
+  width:80%;
+  height:100%;
+  margin:auto;
+  align:center;
+}
+th{
+  font-size:30px;
+  font-family:Arial;
+}
