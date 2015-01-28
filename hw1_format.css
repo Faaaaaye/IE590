@@ -1,6 +1,10 @@
 body{
   font-family:Verdana;
 }
+h1 {
+	text-align: center;
+}
+
 table{
   width:80%;
   height:100%;
