@@ -14,7 +14,12 @@ div{
   background-color:#FFB6C1
   position:relative;
 }
-
+#top p{
+  font-size:30px;
+  position:relative;
+  margin-left:2%;
+  
+}
 table{
   width:80%;
   height:100%;
